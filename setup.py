@@ -11,7 +11,7 @@ setup(
     version="0.0.1",
     author="Heraldo",
     author_email="hccruz@gmail.com",
-    description=" ",
+    url="https://github.com/hccruz/image_processing_pakage",
     packages=find_packages(),
     install_requires=requirements,
     python_requires=">=3.9"
